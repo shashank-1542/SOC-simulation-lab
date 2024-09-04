@@ -20,7 +20,7 @@
     *Create a MISP event with information from an open-source report<br />
     *Push information from a MISP event to TheHive for Triage<br />
       </p>
-  Lab2: []<br />
+  Lab2: [https://github.com/shashank-1542/Sans-450/blob/main/Lab2.md]<br />
       Lab 2.1:- Exploring DNS
        <p>
     *Run a DNS Server (Pi-Hole) to see how it accepts, records, and forwards requests<br />
@@ -45,7 +45,7 @@
     *Examine known malicious email and identify spoofing and threats within the message content<br />
       </p>
       
-  Lab3: []<br />
+  Lab3: [https://github.com/shashank-1542/Sans-450/blob/main/lab3.md]<br />
       Lab 3.1:- Interpreting Windows Logs
        <p>
     *Learn to find and interpret key Windows logs<br />
@@ -67,7 +67,7 @@
     *Manually send a spoofed message via telnet and see how it appears in a mail client<br />
     *Examine known malicious email and identify spoofing and threats within the message content<br />
       </p>
-  Lab4: []<br />
+  Lab4: [https://github.com/shashank-1542/Sans-450/blob/main/lab4.md]<br />
       Lab 4.1:- Alert Triage & Prioritization
        <p>
     *Apply the kill-chain to a set of alerts for triage<br />
@@ -89,7 +89,7 @@
     *Document observables with details of how they were used<br />
     *Close the case writing a easily consumable attack and impact summary of the findings<br />
   </p>
-  Lab5: []<br />
+  Lab5: [https://github.com/shashank-1542/Sans-450/blob/main/lab5.md]<br />
       Lab 5.1:- Alert Tuning
      <p>
     *Look at a set of alerts from an untuned IDS<br />
