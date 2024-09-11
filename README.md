@@ -60,12 +60,11 @@
     *Understand how a SIEM performs normalization, enrichment, and categorization<br />
     *Use data supplement with enrichment and categorization to visualize attack trend<br />
       </p>
-      Lab 3.3:- SMTP and Email Analysis
+      Lab 3.3:- Malicious File Identification
       <p>
-    *See SMTP mail relay in action on your virtual machine<br />
-    *Follow a normal email through two MTA servers<br />
-    *Manually send a spoofed message via telnet and see how it appears in a mail client<br />
-    *Examine known malicious email and identify spoofing and threats within the message content<br />
+    *Learn how to do basic triage of commonly weaponized files<br />
+    *Use OSINT to quickly produce actionable information<br />
+    *Learn some basic ways to take apart malicious files<br />
       </p>
   Lab4: [https://github.com/shashank-1542/Sans-450/blob/main/lab4.md]<br />
       Lab 4.1:- Alert Triage & Prioritization
