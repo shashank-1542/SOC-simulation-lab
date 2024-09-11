@@ -1,11 +1,7 @@
-# Sans-450
+# Soc simulation lab
 
-<h1>Sans Training Labs </h1>
-
-<h2>Description</h2>This is the walkthrough of SANS sec 450 training and here i present the walkthrough of all the LAB's i solved and what i learned form it.
-<br />
-
-<h2>labs:</h2>
+<h2>Basic workflow of daily SOC activity</h2>
+<h3>labs:</h3>
        Lab1: (https://github.com/shashank-1542/Sans-450/blob/main/Lab1.md)<br />
        Lab 1.1:- TheHive Incident Management System
        <p>
