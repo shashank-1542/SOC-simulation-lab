@@ -2,7 +2,7 @@
 
 <h2>Basic workflow of daily SOC activity</h2>
 <h3>labs:</h3>
-       Lab1: (https://github.com/shashank-1542/Sans-450/blob/main/Lab1.md)<br />
+       Lab1: (https://github.com/shashank-1542/SOC-simulation-lab/blob/main/Lab1.md)<br />
        Lab 1.1:- TheHive Incident Management System
        <p>
     * Become familiar with TheHive incident management system (IMS) workflow and concepts<br />
@@ -16,7 +16,7 @@
     *Create a MISP event with information from an open-source report<br />
     *Push information from a MISP event to TheHive for Triage<br />
       </p>
-  Lab2: [https://github.com/shashank-1542/Sans-450/blob/main/Lab2.md]<br />
+  Lab2: [https://github.com/shashank-1542/SOC-simulation-lab/blob/main/Lab2.md]<br />
       Lab 2.1:- Exploring DNS
        <p>
     *Run a DNS Server (Pi-Hole) to see how it accepts, records, and forwards requests<br />
@@ -41,7 +41,7 @@
     *Examine known malicious email and identify spoofing and threats within the message content<br />
       </p>
       
-  Lab3: [https://github.com/shashank-1542/Sans-450/blob/main/lab3.md]<br />
+  Lab3: [https://github.com/shashank-1542/SOC-simulation-lab/blob/main/lab3.md]<br />
       Lab 3.1:- Interpreting Windows Logs
        <p>
     *Learn to find and interpret key Windows logs<br />
@@ -62,7 +62,7 @@
     *Use OSINT to quickly produce actionable information<br />
     *Learn some basic ways to take apart malicious files<br />
       </p>
-  Lab4: [https://github.com/shashank-1542/Sans-450/blob/main/lab4.md]<br />
+  Lab4: [https://github.com/shashank-1542/SOC-simulation-lab/blob/main/lab4.md]<br />
       Lab 4.1:- Alert Triage & Prioritization
        <p>
     *Apply the kill-chain to a set of alerts for triage<br />
@@ -84,7 +84,7 @@
     *Document observables with details of how they were used<br />
     *Close the case writing a easily consumable attack and impact summary of the findings<br />
   </p>
-  Lab5: [https://github.com/shashank-1542/Sans-450/blob/main/lab5.md]<br />
+  Lab5: [https://github.com/shashank-1542/SOC-simulation-lab/blob/main/lab5.md]<br />
       Lab 5.1:- Alert Tuning
      <p>
     *Look at a set of alerts from an untuned IDS<br />
